@@ -1,6 +1,6 @@
 {
   "name": "react-native-phone-number-input2",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Phone Number Input Component",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -31,6 +31,7 @@
     "android"
   ],
   "dependencies": {
+    "@olegnjadocode/react-native-country-picker-modal": "^2.0.2",
     "google-libphonenumber": "^3.2.10",
     "react-native-country-picker-modal": "^2.0.0"
   },
